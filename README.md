@@ -1,10 +1,9 @@
 # Projeto DSMovie
 
-O projeto DSMovie é um sistema Fullstack desenvolvido durante a Semana Spring React - 9 a 15 de Maio promovida pela Escola de programação DevSuperior.
+O projeto DSMovie é um sistema Fullstack desenvolvido durante a Semana Spring React - 9 a 15 de Maio de 2022, promovida pela Escola de programação DevSuperior.
 As principais tecnologias utilizadas foram Java com ecossistema Spring Boot e TypeScript com a biblioteca React. O principal objetivo deste projeto é apresentar
 ao usuário um catálogo de filmes onde cada usuário faz uma avaliação do filme escolhido entre 1 a 5 estrelas. Basicamente, ao escolher um filme, é aberta uma página 
-com o filme escolhido, e o usuário insere seu e-mail e avaliação do filme. O banco de dados registra essa avaliação e a exibe para o usuário o número total de avaliações
-daquele e de outros filmes.
+com o filme escolhido, e o usuário insere seu e-mail e avaliação do filme. O banco de dados registra essa avaliação e a exibe para o usuário o número total de avaliações daquele e de outros filmes.
 
 Segue o design Figma do projeto: 
 https://www.figma.com/file/hpQuzpGHq2MmrI87xnfMoT/DSMovie1
