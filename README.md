@@ -22,6 +22,7 @@ Para termos uma visão da estrutura lógica do sistema, é apresentada um diagra
 3. Salvar a avaliação do usuário para o dado filme.
 4. Recalcular a avaliação média do filme e salvar no banco de dados.
 
-https://raw.githubusercontent.com/devsuperior/bds-assets/main/sds/dsmovie-objs.png
+![logica](https://github.com/rodrock95/dsmovie/assets/79290866/ae0df225-9937-42d8-8853-ef82ada611a6)
+
 
 
